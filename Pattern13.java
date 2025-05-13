@@ -26,3 +26,8 @@ public class Pattern13{
         Diamond(15);
     }
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */

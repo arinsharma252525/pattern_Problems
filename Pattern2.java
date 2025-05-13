@@ -10,3 +10,8 @@ public class Pattern2 {
         }
     }
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */

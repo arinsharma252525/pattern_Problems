@@ -15,3 +15,8 @@ public class Pattern6{
         half_Pyramid(8);
     }
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */

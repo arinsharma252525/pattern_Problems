@@ -34,3 +34,8 @@ public class Pattern10{
         Butterfly(5);
     }
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */

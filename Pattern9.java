@@ -15,3 +15,8 @@ public class Pattern9{
     binary_Triangle(5);
     }
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */

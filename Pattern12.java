@@ -19,3 +19,8 @@ public class Pattern12{
      hollow_Rhombus(15);
     } 
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */

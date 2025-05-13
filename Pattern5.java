@@ -16,3 +16,8 @@ public class Pattern5{
      hollow_rectangle(4, 10);
     } 
 }
+
+/*
+ * Time Complexity: O(totalRows * totalColumns)
+ * Space Complexity: O(1)
+ */

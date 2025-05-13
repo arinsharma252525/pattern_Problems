@@ -15,3 +15,8 @@ public class Pattern11{
         solid_Rhombus(8);
     }
 }
+
+/*
+ * Time Complexity: O(n²)
+ * Space Complexity: O(1)
+ */
